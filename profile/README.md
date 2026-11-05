@@ -1,4 +1,3 @@
-markdown
 <p align="center">
   <a href="https://cofiled.com"><img src="https://cofiled.com/stamp.svg" width="72" alt="Cofiled"></a>
 </p>
